@@ -4,19 +4,24 @@ import SkillCard from './SkillCard';
 const Skill = () => {
     const skillItem = [
         {
-          imgSrc: '/images/figma.svg',
-          label: 'Figma',
-          desc: 'Design tool'
+          imgSrc: '/images/react.svg',
+          label: 'React',
+          desc: 'Framework'
         },
         {
-          imgSrc: '/images/css3.svg',
-          label: 'CSS',
+          imgSrc: '/images/tailwindcss.svg',
+          label: 'TailwindCSS',
           desc: 'User Interface'
         },
         {
           imgSrc: '/images/javascript.svg',
           label: 'JavaScript',
           desc: 'Interaction'
+        },
+        {
+          imgSrc: '/images/css3.svg',
+          label: 'CSS',
+          desc: 'User Interface'
         },
         {
           imgSrc: '/images/nodejs.svg',
@@ -34,14 +39,9 @@ const Skill = () => {
           desc: 'Database'
         },
         {
-          imgSrc: '/images/react.svg',
-          label: 'React',
-          desc: 'Framework'
-        },
-        {
-          imgSrc: '/images/tailwindcss.svg',
-          label: 'TailwindCSS',
-          desc: 'User Interface'
+          imgSrc: '/images/figma.svg',
+          label: 'Figma',
+          desc: 'Design tool'
         },
       ];
 
