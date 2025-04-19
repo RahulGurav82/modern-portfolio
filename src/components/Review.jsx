@@ -43,7 +43,7 @@ const Review = () => {
 
   return (
     <section className="section overflow-hidden"
-    id=''
+    id='reviews'
     >
         <div className="container">
             <h2 className="headline-2 mb-8">
